@@ -1,4 +1,4 @@
-[Ссылка на сайт](https://github.com/rjeytomsk/russian-travel/index.html)
+[Ссылка на сайт](https://rjeytomsk.github.io/russian-travel/index.html)
 
 # Путешествия по России
 
