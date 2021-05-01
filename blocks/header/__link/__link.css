@@ -1,0 +1,24 @@
+.header__lang-link {
+  margin: 0;
+  margin-right: 18px;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: right;
+  text-decoration: none;
+  color: #fff;
+  transition: .4s ease-in-out;
+}
+
+.header__lang-link:hover {
+  opacity: .8;
+}
+
+.header__lang-link:active {
+  opacity: 0.4;
+}
+
+.header__lang-link:last-of-type {
+  margin: 0;
+}
