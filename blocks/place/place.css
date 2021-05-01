@@ -6,8 +6,7 @@
   gap: 48px 40px;
   grid-template-areas:
   "place-title place-website"
-  "place-image place-text"
-  ;
+  "place-image place-text";
   grid-template-columns: 460px minmax(min-content, max-content);
   grid-template-rows: repeat(2, minmax(min-content, max-content));
   color: #fff;
@@ -46,8 +45,7 @@
     "place-title"
     "place-website"
     "place-image"
-    "place-text"
-    ;
+    "place-text";
     grid-template-columns: minmax(min-content, max-content);
     grid-template-rows: repeat(auto-fit, minmax(35px, max-content));
   }
