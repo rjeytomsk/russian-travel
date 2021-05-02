@@ -1,23 +1,23 @@
 @font-face {
   src:
-  url(../fonts/inter-400.woff2) format('woff2'),
-  url(../fonts/inter-400.woff) format('woff');
+  url("../fonts/inter-figma-400.woff2") format("woff2"),
+  url("../fonts/inter-figma-400.woff") format("woff");
   font-family: 'Inter';
   font-weight: 400;
 }
 
 @font-face {
   src:
-  url(../fonts/inter-700.woff2) format('woff2'),
-  url(../fonts/inter-700.woff) format('woff');
+  url("../fonts/inter-figma-700.woff2") format("woff2"),
+  url("../fonts/inter-figma-700.woff") format('woff');
   font-family: 'Inter';
   font-weight: 700;
 }
 
 @font-face {
   src:
-  url(../fonts/inter-900.woff2) format('woff2'),
-  url(../fonts/inter-900.woff) format('woff');
+  url("../fonts/inter-figma-900.woff2") format("woff2"),
+  url("../fonts/inter-figma-900.woff") format("woff");
   font-family: 'Inter';
   font-weight: 900;
 }
