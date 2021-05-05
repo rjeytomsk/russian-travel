@@ -1,7 +1,7 @@
 .header {
   margin: 0 auto;
   max-width: 100%;
-  max-height: 52px;
+  max-height: max-content;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -23,6 +23,6 @@
 @media screen and (max-width: 767px) {
   .header {
     max-width: calc(100% - 32px);
-    max-height: 42px;
+    max-height: max-content;
   }
 }
