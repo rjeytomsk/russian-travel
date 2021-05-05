@@ -1,6 +1,9 @@
 .cover__background {
   height: 100%;
   width: 100%;
+  background-image: url(../../../images/trains.png);
+  background-position: center;
+  background-size: cover;
   display: block;
   object-fit: cover;
   position: absolute;

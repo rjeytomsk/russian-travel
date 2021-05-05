@@ -26,7 +26,6 @@
   .footer {
     margin-left: 16px;
     max-width: 220px;
-    max-height: max-content;
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
